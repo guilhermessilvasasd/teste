@@ -1,0 +1,8 @@
+Add required fields to forms for better data validation
+
+Update Zod schemas for Finance, Workout, Meal, Task, and Study modules to include mandatory field validations and coerce numeric types.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 7813ac72-6db3-4d9d-85f0-94481c582f93
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/c8af1af1-b51b-4c06-9577-04ee7f9512b6/7813ac72-6db3-4d9d-85f0-94481c582f93/WEuueyd
